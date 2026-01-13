@@ -1,9 +1,0 @@
-[font]
-size = 12
-
-builtin_box_drawing = true
-
-normal = { family = "Monocraft", style = "Regular" }
-bold = { family = "Monocraft", style = "Medium" }
-italic = { family = "Monocraft", style = "Italic" }
-bold_italic = { family = "Monocraft", style = "Medium Italic"}
